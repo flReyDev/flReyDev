@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @flReyDev
-- 👀 Me interesa mucho el desarrollo con JavaScript y Java
-- 🌱 Actualmente estoy aprendiendo Node
-- 💞️ Desarrollo Back End Node js
+- 👋 Hi, I’m Freyder Rey
+- 👀 Me apasiona el desarrollo web, 
+- 🌱  Desarrollo Front Angular
+- 💞️ Desarrollo Back End Node js, C#, Go lang, Python
 - 📫 flrey@ucompensar.edu.co - freyder.rey@outlook.com
 
 <!---
